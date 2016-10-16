@@ -1,0 +1,79 @@
+
+GeeksQuiz
+Computer science mock tests for geeks
+
+		
+ 
+
+    Home
+    Latest Questions
+    Articles
+    C/C++ Programs
+    Contribute
+    Books
+
+Subscribe	
+
+C/C++ Program for Introduction to Linked List
+C/C++ Program for Linked List Insertion
+C Program for Linked List Deletion
+C/C++ Program for Write a function to get Nth node in a Linked List
+C/C++ Program for Given only a pointer to a node to be deleted in a singly linked list, how do you delete it?
+C/C++ Program to print the middle of a given linked list
+C/C++ Program for Nth node from the end of a Linked List
+C/C++ Program to delete a Linked List
+C/C++ Program to counts the number of times a given int occurs in a Linked List
+C/C++ Program for Given only a pointer to a node to be deleted in a singly linked list, how do you delete it?
+C/C++ Program to reverse a linked list
+C/C++ Program to detect loop in a linked list
+C/C++ Program to check if a singly linked list is palindrome
+C/C++ Program The Great Tree-List Recursion Problem.
+C/C++ Program to Copy a linked list with next and arbit pointer
+C/C++ Program for Given a linked list which is sorted, how will you insert in sorted way
+C/C++ Program for Write a function to get the intersection point of two Linked Lists.
+C/C++ Program for Write a recursive function to print reverse of a Linked List
+C/C++ Program for Remove duplicates from a sorted linked list
+C/C++ Program for Remove duplicates from an unsorted linked list
+C/C++ Program for Reverse a Doubly Linked List
+C/C++ Program for Circular Linked List Traversal
+C/C++ Program for Split a Circular Linked List into two halves
+C/C++ Program for Practice questions for Linked List and Recursion
+C/C++ Program for Move last element to front of a given Linked List
+C/C++ Program for Pairwise swap elements of a given linked list
+C/C++ Program for Delete a node in a Doubly Linked List
+C/C++ Program for Intersection of two Sorted Linked Lists
+C/C++ Program for Delete alternate nodes of a Linked List
+C/C++ Program for Alternating split of a given Singly Linked List
+C/C++ Program for Merge two sorted linked lists
+C/C++ Program for Identical Linked Lists
+C/C++ Program for Merge Sort for Linked Lists
+C/C++ Program for Reverse a Linked List in groups of given size
+C/C++ Program for Sorted insert for circular linked list
+C/C++ Program for Reverse alternate K nodes in a Singly Linked List
+C/C++ Program for Delete nodes which have a greater value on right side
+C/C++ Program for Segregate even and odd nodes in a Linked List
+C/C++ Program for Detect and Remove Loop in a Linked List
+C/C++ Program for XOR Linked List – A Memory Efficient Doubly Linked List | Set 1
+C/C++ Program for Add two numbers represented by linked lists | Set 1
+C/C++ Program for How to write C functions that modify head pointer of a Linked List?
+C/C++ Program for Delete a given node in Linked List under given constraints
+C/C++ Program for Sorted Linked List to Balanced BST
+C/C++ Program for In-place conversion of Sorted DLL to Balanced BST
+C/C++ Program for Union and Intersection of two Linked Lists
+C/C++ Program for XOR Linked List – A Memory Efficient Doubly Linked List | Set 2
+C/C++ Program for Find a triplet from three linked lists with sum equal to a given number
+C/C++ Program for Rotate a Linked List
+C/C++ Program for Implement LRU Cache
+C/C++ Program for Flattening a Linked List
+C/C++ Program for Add two numbers represented by linked lists | Set 2
+C/C++ Program for Sort a linked list of 0s, 1s and 2s
+C/C++ Program for Flatten a multilevel linked list
+C/C++ Program for QuickSort on Doubly Linked List
+C/C++ Program for Swap Kth node from beginning with Kth node from end in a Linked List
+C/C++ Program for Design a stack with operations on middle element
+C/C++ Program for Delete N nodes after M nodes of a linked list
+C/C++ Program for QuickSort on Singly Linked List
+C/C++ Program for Merge a linked list into another linked list at alternate positions
+C/C++ Program for Pairwise swap elements of a given linked list by changing links
+C/C++ Program for Given a linked list, reverse alternate nodes and append at the end
+C Program for Bubble Sort on Linked List
